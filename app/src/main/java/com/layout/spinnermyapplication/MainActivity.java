@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity implements OnItemSelectedListener{
 
     TextView selection;
-    String[] items={"item1","item2","item3","item4","item5","item6","item7","item8","item9","item10","item4","item5","item6","item7","item8","item9","item10"};
+    String[] items={"item1","item2","item3","item4","item5","item6","item7","item8","item9","item10"};
     @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
